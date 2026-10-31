@@ -1,0 +1,669 @@
+{
+  "projects": [
+    {
+      "project_key": "samruddhi mahamarg",
+      "asset_type": "highway",
+      "status": "operational",
+      "states": [
+        "Maharashtra"
+      ],
+      "cost_crore": 55335.0,
+      "length_km": 701.0,
+      "completion_year": null,
+      "progress_pct": null,
+      "lanes": "6",
+      "sources": [
+        "MSRDC_X",
+        "PIB"
+      ],
+      "n_reports": 2,
+      "confidence": 0.99,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 72,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 285 km -> 10",
+          "status operational -> 20",
+          "capacity -> 10",
+          "length -> 10"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "vadhavan",
+      "asset_type": "port",
+      "status": "planned",
+      "states": [
+        "Maharashtra"
+      ],
+      "cost_crore": 76220.0,
+      "length_km": null,
+      "completion_year": 2029,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "LocalNews",
+        "PIB",
+        "TwitterUser_77"
+      ],
+      "n_reports": 3,
+      "confidence": 0.972,
+      "cost_conflict": {
+        "min": 76200.0,
+        "max": 110000.0,
+        "note": "cost figures disagree",
+        "low_credibility_sources": [
+          "TwitterUser_77"
+        ]
+      },
+      "needs_review": true,
+      "dual_use": {
+        "score": 63,
+        "tier": "MEDIUM",
+        "reasons": [
+          "port base 30",
+          "nearest army/naval hub 98 km -> 18",
+          "status planned -> 5",
+          "capacity -> 10",
+          "length -> 0"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "chennai bengaluru",
+      "asset_type": "highway",
+      "status": "under_construction",
+      "states": [
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "cost_crore": 17900.0,
+      "length_km": 262.0,
+      "completion_year": 2027,
+      "progress_pct": 78,
+      "lanes": "4",
+      "sources": [
+        "BusinessDaily",
+        "NHAI"
+      ],
+      "n_reports": 2,
+      "confidence": 0.965,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 62,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 142 km -> 18",
+          "status under_construction -> 12",
+          "capacity -> 5",
+          "length -> 5"
+        ]
+      },
+      "delay_risk": {
+        "level": "HIGH",
+        "flags": [
+          "delayed",
+          "land acquisition",
+          "progress low for deadline",
+          "pushed"
+        ]
+      }
+    },
+    {
+      "project_key": "western dedicated freight",
+      "asset_type": "rail",
+      "status": "operational",
+      "states": [
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "cost_crore": 38000.0,
+      "length_km": 1506.0,
+      "completion_year": 2027,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "PIB",
+        "RailNews"
+      ],
+      "n_reports": 2,
+      "confidence": 0.965,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 78,
+        "tier": "HIGH",
+        "reasons": [
+          "rail base 28",
+          "nearest army/naval hub 214 km -> 10",
+          "status operational -> 20",
+          "capacity -> 10",
+          "length -> 10"
+        ]
+      },
+      "delay_risk": {
+        "level": "HIGH",
+        "flags": [
+          "delayed",
+          "pending"
+        ]
+      }
+    },
+    {
+      "project_key": "vizhinjam",
+      "asset_type": "port",
+      "status": "operational",
+      "states": [
+        "Kerala"
+      ],
+      "cost_crore": 7700.0,
+      "length_km": null,
+      "completion_year": null,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "KeralaGov",
+        "MarineNews"
+      ],
+      "n_reports": 2,
+      "confidence": 0.965,
+      "cost_conflict": {
+        "min": 7700.0,
+        "max": 10000.0,
+        "note": "cost figures disagree",
+        "low_credibility_sources": []
+      },
+      "needs_review": true,
+      "dual_use": {
+        "score": 70,
+        "tier": "MEDIUM",
+        "reasons": [
+          "port base 30",
+          "nearest army/naval hub 190 km -> 10",
+          "status operational -> 20",
+          "capacity -> 10",
+          "length -> 0"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "hyderabad vijayawada",
+      "asset_type": "highway",
+      "status": "under_construction",
+      "states": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "cost_crore": 10000.0,
+      "length_km": 231.0,
+      "completion_year": 2028,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "NHAI",
+        "RandomBlog"
+      ],
+      "n_reports": 2,
+      "confidence": 0.92,
+      "cost_conflict": {
+        "min": 3000.0,
+        "max": 10000.0,
+        "note": "cost figures disagree",
+        "low_credibility_sources": [
+          "RandomBlog"
+        ]
+      },
+      "needs_review": true,
+      "dual_use": {
+        "score": 57,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 126 km -> 18",
+          "status under_construction -> 12",
+          "capacity -> 0",
+          "length -> 5"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "mopa goa",
+      "asset_type": "airport",
+      "status": "operational",
+      "states": [
+        "Goa"
+      ],
+      "cost_crore": 1200.0,
+      "length_km": 32.0,
+      "completion_year": null,
+      "progress_pct": null,
+      "lanes": "4",
+      "sources": [
+        "GoaGov"
+      ],
+      "n_reports": 1,
+      "confidence": 0.9,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 76,
+        "tier": "HIGH",
+        "reasons": [
+          "airport base 26",
+          "nearest army/naval hub 17 km -> 25",
+          "status operational -> 20",
+          "capacity -> 5",
+          "length -> 0"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "bhopal jabalpur",
+      "asset_type": "highway",
+      "status": "under_construction",
+      "states": [
+        "Madhya Pradesh"
+      ],
+      "cost_crore": 7800.0,
+      "length_km": 295.0,
+      "completion_year": 2027,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "PIB"
+      ],
+      "n_reports": 1,
+      "confidence": 0.9,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 57,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 132 km -> 18",
+          "status under_construction -> 12",
+          "capacity -> 0",
+          "length -> 5"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "indore bhopal rail",
+      "asset_type": "rail",
+      "status": "operational",
+      "states": [
+        "Madhya Pradesh"
+      ],
+      "cost_crore": 4100.0,
+      "length_km": 195.0,
+      "completion_year": null,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "MPGov"
+      ],
+      "n_reports": 1,
+      "confidence": 0.9,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 81,
+        "tier": "HIGH",
+        "reasons": [
+          "rail base 28",
+          "nearest army/naval hub 82 km -> 18",
+          "status operational -> 20",
+          "capacity -> 10",
+          "length -> 5"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    },
+    {
+      "project_key": "hyderabad rrr",
+      "asset_type": "highway",
+      "status": "planned",
+      "states": [
+        "Telangana"
+      ],
+      "cost_crore": 17000.0,
+      "length_km": 158.0,
+      "completion_year": null,
+      "progress_pct": null,
+      "lanes": "4",
+      "sources": [
+        "TelanganaGov"
+      ],
+      "n_reports": 1,
+      "confidence": 0.9,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 62,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 25 km -> 25",
+          "status planned -> 5",
+          "capacity -> 5",
+          "length -> 5"
+        ]
+      },
+      "delay_risk": {
+        "level": "MEDIUM",
+        "flags": [
+          "land acquisition"
+        ]
+      }
+    },
+    {
+      "project_key": "mumbai pune expressway",
+      "asset_type": "highway",
+      "status": "under_construction",
+      "states": [
+        "Maharashtra"
+      ],
+      "cost_crore": 6300.0,
+      "length_km": 13.0,
+      "completion_year": 2026,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "PIB"
+      ],
+      "n_reports": 1,
+      "confidence": 0.9,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 59,
+        "tier": "MEDIUM",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 58 km -> 25",
+          "status under_construction -> 12",
+          "capacity -> 0",
+          "length -> 0"
+        ]
+      },
+      "delay_risk": {
+        "level": "MEDIUM",
+        "flags": [
+          "completion year already reached"
+        ]
+      }
+    },
+    {
+      "project_key": "visakhapatnam raipur",
+      "asset_type": "highway",
+      "status": "under_construction",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "cost_crore": 16000.0,
+      "length_km": 464.0,
+      "completion_year": 2028,
+      "progress_pct": null,
+      "lanes": null,
+      "sources": [
+        "NewsPortal"
+      ],
+      "n_reports": 1,
+      "confidence": 0.65,
+      "cost_conflict": null,
+      "needs_review": false,
+      "dual_use": {
+        "score": 54,
+        "tier": "LOW",
+        "reasons": [
+          "highway base 22",
+          "nearest army/naval hub 215 km -> 10",
+          "status under_construction -> 12",
+          "capacity -> 0",
+          "length -> 10"
+        ]
+      },
+      "delay_risk": {
+        "level": "LOW",
+        "flags": []
+      }
+    }
+  ],
+  "unverified_leads": [
+    {
+      "feed_id": "F019",
+      "source": "Telegram_chan",
+      "text": "Secret new port in Gujarat being built by foreign firm near Kutch, 500 acre, no details!!"
+    }
+  ],
+  "critical_edges": [
+    {
+      "edge_id": "E22",
+      "link": "Hyderabad-Visakhapatnam",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 2
+    },
+    {
+      "edge_id": "E3",
+      "link": "Nagpur-Jabalpur",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 1
+    },
+    {
+      "edge_id": "E9",
+      "link": "Hyderabad-Chennai",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 1
+    },
+    {
+      "edge_id": "E14",
+      "link": "Mumbai-Vadhavan",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 1
+    },
+    {
+      "edge_id": "E16",
+      "link": "Ahmedabad-Mundra",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 1
+    },
+    {
+      "edge_id": "E19",
+      "link": "Kochi-Vizhinjam",
+      "mode": "road",
+      "added_hours_total": 0.0,
+      "pairs_disconnected": 1
+    },
+    {
+      "edge_id": "E1",
+      "link": "Pune-Mumbai",
+      "mode": "road",
+      "added_hours_total": 105.1,
+      "pairs_disconnected": 0
+    },
+    {
+      "edge_id": "E6",
+      "link": "Nagpur-Hyderabad",
+      "mode": "road",
+      "added_hours_total": 45.5,
+      "pairs_disconnected": 0
+    }
+  ],
+  "completion_benefit": [
+    {
+      "route": "Bhopal->Visakhapatnam",
+      "now_h": 36.8,
+      "after_h": 27.6,
+      "saved_h": 9.1
+    },
+    {
+      "route": "Nagpur->Vizhinjam",
+      "now_h": 55.0,
+      "after_h": 53.8,
+      "saved_h": 1.2
+    },
+    {
+      "route": "Pune->Visakhapatnam",
+      "now_h": 29.5,
+      "after_h": 28.5,
+      "saved_h": 1.0
+    },
+    {
+      "route": "Pune->Kochi",
+      "now_h": 34.8,
+      "after_h": 34.8,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Pune->Mumbai",
+      "now_h": 3.8,
+      "after_h": 3.8,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Hyderabad->Mumbai",
+      "now_h": 17.8,
+      "after_h": 17.8,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Jabalpur->Chennai",
+      "now_h": 35.0,
+      "after_h": 35.0,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Indore->Mundra",
+      "now_h": 18.2,
+      "after_h": 18.2,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Pune->Vadhavan",
+      "now_h": 6.8,
+      "after_h": 6.8,
+      "saved_h": 0.0
+    },
+    {
+      "route": "Hyderabad->Goa",
+      "now_h": 32.5,
+      "after_h": 32.5,
+      "saved_h": 0.0
+    }
+  ],
+  "baseline": {
+    "Pune->Visakhapatnam": {
+      "hours": 29.5,
+      "path": [
+        "E11",
+        "E22"
+      ]
+    },
+    "Pune->Kochi": {
+      "hours": 34.8,
+      "path": [
+        "E12",
+        "E13"
+      ]
+    },
+    "Pune->Mumbai": {
+      "hours": 3.8,
+      "path": [
+        "E1"
+      ]
+    },
+    "Hyderabad->Mumbai": {
+      "hours": 17.8,
+      "path": [
+        "E11",
+        "E1"
+      ]
+    },
+    "Jabalpur->Chennai": {
+      "hours": 35.0,
+      "path": [
+        "E3",
+        "E6",
+        "E9"
+      ]
+    },
+    "Nagpur->Vizhinjam": {
+      "hours": 55.0,
+      "path": [
+        "E2",
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    "Bhopal->Visakhapatnam": {
+      "hours": 36.8,
+      "path": [
+        "E23",
+        "E6",
+        "E22"
+      ]
+    },
+    "Indore->Mundra": {
+      "hours": 18.2,
+      "path": [
+        "E24",
+        "E16"
+      ]
+    },
+    "Pune->Vadhavan": {
+      "hours": 6.8,
+      "path": [
+        "E1",
+        "E14"
+      ]
+    },
+    "Hyderabad->Goa": {
+      "hours": 32.5,
+      "path": [
+        "E11",
+        "E1",
+        "E17"
+      ]
+    }
+  },
+  "n_feeds": 20
+}

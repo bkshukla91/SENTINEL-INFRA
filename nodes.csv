@@ -1,0 +1,19 @@
+node,lat,lon,kind,note
+Pune,18.52,73.86,army_hub,Southern Command HQ region
+Mumbai,19.08,72.88,naval_hub,Western Naval Command region
+Nagpur,21.15,79.09,logistics_hub,Central India depot region
+Jabalpur,23.18,79.99,army_hub,Army cantonment region
+Bhopal,23.26,77.41,logistics_hub,Central rail node
+Indore,22.72,75.86,army_hub,Mhow cantonment region
+Hyderabad,17.39,78.49,army_hub,Secunderabad cantonment region
+Vijayawada,16.51,80.65,logistics_hub,Rail junction
+Visakhapatnam,17.69,83.22,naval_hub,Eastern Naval Command region
+Chennai,13.08,80.27,port_hub,Major port and coastal defence region
+Bengaluru,12.97,77.59,army_hub,Southern logistics region
+Kochi,9.93,76.27,naval_hub,Southern Naval Command region
+Vizhinjam,8.38,76.99,port_hub,Deep-water transshipment port
+Goa,15.50,73.83,naval_hub,Naval base region
+Ahmedabad,23.02,72.57,logistics_hub,Western rail node
+Mundra,22.84,69.72,port_hub,Large private port Kutch coast
+Raipur,21.25,81.63,logistics_hub,Eastern central hub
+Vadhavan,19.93,72.65,port_hub,Planned deep-water port

@@ -1,0 +1,25 @@
+edge_id,from,to,mode,km,status,project_key
+E1,Pune,Mumbai,road,150,operational,mumbai pune expressway
+E2,Mumbai,Nagpur,road,701,operational,samruddhi mahamarg
+E3,Nagpur,Jabalpur,road,270,operational,
+E4,Jabalpur,Bhopal,road,295,under_construction,bhopal jabalpur
+E5,Bhopal,Indore,rail,195,operational,indore bhopal rail
+E6,Nagpur,Hyderabad,road,500,operational,
+E7,Hyderabad,Vijayawada,road,231,under_construction,hyderabad vijayawada
+E8,Vijayawada,Visakhapatnam,road,350,operational,
+E9,Hyderabad,Chennai,road,630,operational,
+E10,Chennai,Bengaluru,road,262,under_construction,chennai bengaluru
+E11,Pune,Hyderabad,road,560,operational,
+E12,Pune,Bengaluru,road,840,operational,
+E13,Bengaluru,Kochi,road,550,operational,
+E14,Mumbai,Vadhavan,road,120,operational,vadhavan
+E15,Mumbai,Ahmedabad,rail,500,operational,western dedicated freight
+E16,Ahmedabad,Mundra,road,330,operational,
+E17,Mumbai,Goa,road,590,operational,
+E18,Goa,Kochi,road,700,operational,
+E19,Kochi,Vizhinjam,road,210,operational,vizhinjam
+E20,Visakhapatnam,Raipur,road,464,under_construction,visakhapatnam raipur
+E21,Raipur,Nagpur,road,290,operational,
+E22,Hyderabad,Visakhapatnam,road,620,operational,
+E23,Bhopal,Nagpur,road,350,operational,
+E24,Indore,Ahmedabad,road,400,operational,

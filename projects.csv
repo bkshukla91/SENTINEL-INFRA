@@ -1,0 +1,13 @@
+project,type,status,states,cost_crore,km,confidence,dual_use,tier,delay_risk,needs_review
+samruddhi mahamarg,highway,operational,Maharashtra,55335.0,701.0,0.99,72,MEDIUM,LOW,False
+vadhavan,port,planned,Maharashtra,76220.0,,0.972,63,MEDIUM,LOW,True
+chennai bengaluru,highway,under_construction,Andhra Pradesh/Tamil Nadu,17900.0,262.0,0.965,62,MEDIUM,HIGH,False
+western dedicated freight,rail,operational,Gujarat/Maharashtra,38000.0,1506.0,0.965,78,HIGH,HIGH,False
+vizhinjam,port,operational,Kerala,7700.0,,0.965,70,MEDIUM,LOW,True
+hyderabad vijayawada,highway,under_construction,Andhra Pradesh/Telangana,10000.0,231.0,0.92,57,MEDIUM,LOW,True
+mopa goa,airport,operational,Goa,1200.0,32.0,0.9,76,HIGH,LOW,False
+bhopal jabalpur,highway,under_construction,Madhya Pradesh,7800.0,295.0,0.9,57,MEDIUM,LOW,False
+indore bhopal rail,rail,operational,Madhya Pradesh,4100.0,195.0,0.9,81,HIGH,LOW,False
+hyderabad rrr,highway,planned,Telangana,17000.0,158.0,0.9,62,MEDIUM,MEDIUM,False
+mumbai pune expressway,highway,under_construction,Maharashtra,6300.0,13.0,0.9,59,MEDIUM,MEDIUM,False
+visakhapatnam raipur,highway,under_construction,Andhra Pradesh,16000.0,464.0,0.65,54,LOW,LOW,False
